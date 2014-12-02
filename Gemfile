@@ -18,6 +18,8 @@ gem 'coffee-rails', '~> 4.0.0'
 # Frontend assets
 gem 'rails-assets-backbone'
 gem 'rails-assets-underscore'
+gem 'bootstrap-sass'
+gem 'handlebars_assets'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
